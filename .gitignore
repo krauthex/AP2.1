@@ -1,0 +1,7 @@
+# this file lists all directories/files that should be ignored
+
+## for v223
+v223/.ipynb_checkpoints
+v223/__pycache__
+
+
