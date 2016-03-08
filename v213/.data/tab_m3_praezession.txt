@@ -1,0 +1,6 @@
+#1x gewicht bei 15cm, 1x bei 20cm, 2x bei 15cm, 2x bei 20cm; dazu jeweils Frequenz und Zeit
+#f[min^-1] T_p[s]
+700	121	700	92	700	63	700	48
+600	104	600	78	600	55	600	42
+450	80	350	48	450	42	450	30
+300	54	450	58	300	28.5	300	21
